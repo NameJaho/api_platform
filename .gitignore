@@ -4,7 +4,6 @@ __pycache__
 .DS_Store
 output
 local
-models
 damo
 uie-base
 uie_base_pytorch
@@ -14,3 +13,4 @@ requirements.txt
 fastapi
 config.ini
 api_platform
+.env
